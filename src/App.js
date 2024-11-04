@@ -94,7 +94,7 @@ function App () {
         { text:"You cannot swim for new horizons until you have courage to lose sight of the shore.", author: "William Faulkner" },
         { text:"You have power over your mind—not outside events. Realize this, and you will find strength.", author: "Marcus Aurelius" },
         { text:"What lies behind us and what lies before us are tiny matters compared to what lies within us.", author: "Ralph Waldo Emerson" },
-  
+
     ];
 
     const randomQuotex = () => {
